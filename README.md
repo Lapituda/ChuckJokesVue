@@ -1,16 +1,16 @@
-# Descripción
+# Descripción:
 ## El estudiante creará un sistema con una vista primaria y vistas que reciben herencia.
 
-# Objetivo
+# Objetivo:
 ## Para trabajar con el framework JavaScript Vue.
 
-# Requisitos
+# Requisitos:
 ## Computadora con acceso a Internet, tenga instalado XAMPP, o WAMP, MAMP, LAMP o Laragon Stack.
 
-# Instrucciones
+# Instrucciones:
 ## Observe el siguiente arreglo.
 
-chuck: [ 
+## chuck: [ 
     { 
         "value": "Chuck Norris can skydive into outer space." 
     }, 
@@ -30,10 +30,10 @@ chuck: [
 
  
 
-## Cree una aplicación Vue donde pueda dar forma a los datos proporcionados en la solución anterior. La aplicación debe tener las siguientes características:
+# Cree una aplicación Vue donde pueda dar forma a los datos proporcionados en la solución anterior. La aplicación debe tener las siguientes características:
 
-Cree una nueva instancia de Vue, donde se devuelvan los datos sugeridos.
-Muéstrelo como una lista iterando con la directiva v-for.
-Dale un aspecto bonito añadiendo una hoja de estilo.
-Cree el proyecto git y cargue los resultados en GitHub, en el proyecto denominado "ChuckJokesVue".
-Recuerda editar tu archivo README.md con la descripción de la actividad, tomar capturas de pantalla y adjuntar todo en un documento en formato informe junto con la URL de GitHub.
+## Cree una nueva instancia de Vue, donde se devuelvan los datos sugeridos.
+## Muéstrelo como una lista iterando con la directiva v-for.
+## Dale un aspecto bonito añadiendo una hoja de estilo.
+## Cree el proyecto git y cargue los resultados en GitHub, en el proyecto denominado "ChuckJokesVue".
+## Recuerda editar tu archivo README.md con la descripción de la actividad, tomar capturas de pantalla y adjuntar todo en un documento en formato informe junto con la URL de GitHub.
