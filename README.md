@@ -42,6 +42,8 @@
 
 ![image](https://github.com/Lapituda/ChuckJokesVue/assets/102392241/e7a999a8-44da-4683-a7e8-9bb61a4ccd10)
 
+# TAREA 10
+## 
 
 
 # chuck-jokes-vue
