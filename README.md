@@ -37,3 +37,8 @@
 ## 3 - Dale un aspecto bonito añadiendo una hoja de estilo.
 ## 4 - Cree el proyecto git y cargue los resultados en GitHub, en el proyecto denominado "ChuckJokesVue".
 ## 5 - Recuerda editar tu archivo README.md con la descripción de la actividad, tomar capturas de pantalla y adjuntar todo en un documento en formato informe junto con la URL de GitHub.
+
+
+
+![image](https://github.com/Lapituda/ChuckJokesVue/assets/102392241/e7a999a8-44da-4683-a7e8-9bb61a4ccd10)
+
